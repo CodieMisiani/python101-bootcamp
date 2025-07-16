@@ -27,6 +27,54 @@ def check_budget(expense,budget):
 message = check_budget(this_month_expenses, monthly_budget)
 print(message)
 
+#LOOPS
+expenses = [1200, 3000, 450, 800, 2000]
+total = 0
+
+for item in expenses:
+    total += item
+
+print("Your total expenses are:", total)
+
+#Optional with While loop
+#We’re starting with the first index of the list.
+i = 0
+#This is where we'll store the sum as we add the expenses.
+total = 0
+
+while i < len(expenses):
+    total += expenses[i]
+    i += 1
+
+print("Total using while loop:", total)
+# total += expenses[i]
+# This means:
+
+# python
+# Copy
+# Edit
+# total = total + expenses[i]
+# We’re adding the value at position i in the list to our running total.
+
+# If the list is:
+
+# python
+# Copy
+# Edit
+# expenses = [100, 200, 300]
+# Then:
+
+# i = 0 → expenses[0] = 100
+
+# total = 0 + 100 = 100
+
+# Next loop:
+
+# i = 1 → expenses[1] = 200
+
+# total = 100 + 200 = 300
+
+# And so on...
 # print intro message
 # print("Welcome,", user_name)
 # print("Your budget this month is:", monthly_budget)
