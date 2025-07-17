@@ -7,6 +7,8 @@
 #Prints: “Alex spent 400 KES on lunch.” (Use print() and variables)
 
 user_best_friend = "Misiani"
+user_best_friend2 = "Moranga"
 lunch_spending = 1000
 currency = "KES"
 print(f"{user_best_friend}, spent {lunch_spending} {currency} on lunch")
+print(f"{user_best_friend2}, spent {lunch_spending} {currency} on lunch")
