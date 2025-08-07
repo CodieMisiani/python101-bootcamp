@@ -1,4 +1,4 @@
-# Python 101 Bootcamp 🚀
+# Python 101 Bootcamp 🚀2025.
 I'm learning Python from the ground up through a hands-on, project-based approach. As I master core programming concepts (variables, functions, loops, etc.), I'm simultaneously building a real-world solo project — a personal expense tracker — to apply everything I learn. This repository documents my journey, code experiments, and evolving project as I progress toward becoming a software engineer skilled in Python.
 
 Welcome to my Python learning journey!  
