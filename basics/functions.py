@@ -77,3 +77,4 @@ def convert_kes_to_usd(kes_amount):
 # “I struggled with understanding how return works in functions, but now I realize it helps me get a result back from the function so I can use it later. The difference between printing and returning is...”
 # keep streak alive 1
 # keep strike alive 2
+# keep strike alive 3
